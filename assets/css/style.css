@@ -249,6 +249,14 @@ margin: 0;
     float: left;
     padding: 0;
 }
+
+#times > div {
+    width: 100%;
+    clear: both;
+    height: 150px;
+    padding: 0;
+}
+
 hr { display: none;}
 }
 
@@ -263,6 +271,7 @@ hr { display: none;}
 }
 #cover-text {
     left: 0;
+}
 }
 #club-ethos {width: 90%;
 height: 1200px;
